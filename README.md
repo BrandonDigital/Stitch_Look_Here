@@ -1,2 +1,3 @@
-# Character_Look_At_Mouse
-Created with CodeSandbox
+# Stitch Look here
+
+Testing armature rig interaction with mouse through Threejs.
